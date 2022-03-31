@@ -385,7 +385,7 @@ display: none;
 footer{
     flex-direction: column-reverse;
     align-items: center;
-    
+
     
 }
 
@@ -458,6 +458,9 @@ html{
 background-size: 60vh;
 background-repeat: no-repeat;
 }
-
+img{
+    max-width: 100%;
+    height: auto;
+}
 }
 
